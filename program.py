@@ -1,1 +1,1 @@
-print('Я домашка'
+print('hi! im your homeworkrk')
